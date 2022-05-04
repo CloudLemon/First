@@ -1,1 +1,1 @@
-This is my first github-library.Github is so beautiful!I love it.
+This is my first Github-Repository.Github is so beautiful!I love it.
